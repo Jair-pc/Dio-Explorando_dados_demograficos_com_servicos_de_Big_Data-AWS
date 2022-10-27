@@ -1,5 +1,15 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+<h1 align="center">
+  <br>
+  <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="logo" height="300">
+</h1>
+
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
+
+Repositório para a curso visto no dia 27/10/2022 sobre o Amazon Athena
+
+##Explorando Dados Demográficos com Serviços de Big Data na AWS
+
+## Professor: CAssiano Peres
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
