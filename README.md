@@ -5,7 +5,7 @@
 
 #### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
 
-Repositório para a curso visto no dia 27/10/2022 sobre o Amazon Athena
+Repositório para o Botcamp Ciências de dados, visto no dia 27/10/2022 sobre o Amazon Athena
 
 ## Explorando Dados Demográficos com Serviços de Big Data na AWS
 
