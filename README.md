@@ -7,9 +7,9 @@
 
 Repositório para a curso visto no dia 27/10/2022 sobre o Amazon Athena
 
-##Explorando Dados Demográficos com Serviços de Big Data na AWS
+## Explorando Dados Demográficos com Serviços de Big Data na AWS
 
-## Professor: CAssiano Peres
+## Professor: Cassiano Peres
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
